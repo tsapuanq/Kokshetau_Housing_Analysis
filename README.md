@@ -13,14 +13,14 @@ This project is dedicated to analyzing data on apartment prices in the city of K
    - Saved the processed data into structured files.
 
 3. **Data cleaning and visulaizations** ('data_cleaning_and_visualizations.ipynb'):
-   - Analyze the dataset
-   - Fill the Nan values replace by mean and etc.
-   - Analyze the abnormal values
-   - Drop uneccessary column, raws
-   - Visualize the dataset to understand it
+   - Analyze the dataset.
+   - Fill the Nan values, replace by mean and etc.
+   - Analyze the abnormal values.
+   - Drop uneccessary column, rows.
+   - Visualize the dataset to understand.
   
 4. **Models** ('model.ipynb'):
-   - Drop uneeccessary columns by checking correlation matrix
-   - Data proccessing from categorical to numerical
-   - Creating new features to understand the data better
+   - Drop uneccessary columns by checking correlation matrix.
+   - Data proccessing from categorical to numerical.
+   - Creating new features to understand the data better.
    - Create the models.
